@@ -1,1 +1,2 @@
-# mis programas en Python en trabajo final es imc.py
+Modulo 2 del curso Python se realizaron dos proyectos de los cuales se subena un repositorio 
+el modulo dos me ayudo a comprender el funcionamineot de los ciclos y las lista,tuplas y demas que me ayudana comprender mas el proceso de que todo requiere de un ciclo para tener funcionalidad en el sistema asi como el mejoramiento de mi logica de programacion para lograr resolver los porblemas que va necesitando el usuario para hacer mas facil el manejo de un sistema y evitar que caiga en errores 
