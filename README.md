@@ -1,1 +1,1 @@
-Modulo 4 lo se apredio es a crear una pokedez utilizando una api publica para extraer los datos del servidor adicional a eso aprendimos a crear documentos y guardar los datos el el formato que mas nos convenga asi como modificaciuones de ellos mismos empezamos a entender la resolucion de probleas que se nos van presentando en el area de la programacion orientada a odjetos en un lenguaje multifuncional como lo es python
+Programacion en python para mejorar la logica de programacion 
